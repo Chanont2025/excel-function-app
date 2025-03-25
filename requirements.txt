@@ -1,3 +1,4 @@
 streamlit
 pandas
 pyperclip
+git+https://github.com/frankcarey/st-searchbox.git
