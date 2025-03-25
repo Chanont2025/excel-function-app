@@ -1,10 +1,14 @@
+import sys
+import os
+sys.path.append(os.path.dirname(os.path.abspath(__file__)))
+
 import streamlit as st 
 from load_data import load_default_data, load_uploaded_data
 from utils import search_functions, get_unique_categories, filter_by_category
 from components import render_function_card
 import pandas as pd
 import difflib
-import os
+from datetime import datetime
 
 # Config
 CSV_PATH = "excel_function_app/Excel_functions_EN.csv"
