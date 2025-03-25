@@ -1,4 +1,0 @@
-Function Name,Description,Syntax,Example,Category,Tutorial
-TEXT,Converts a value to text,"TEXT(value, format_text)","TEXT(1234.567, ""0.00"")",Text Functions,"Step 1: Select the cell
-Step 2: Type the TEXT function
-Step 3: Press Enter"
