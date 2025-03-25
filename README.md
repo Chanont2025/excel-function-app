@@ -59,7 +59,7 @@ streamlit run streamlit_app.py
 
 - streamlit
 - pandas
-- st-searchbox
+
 
 ## 🪪 License
 
